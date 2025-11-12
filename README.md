@@ -83,5 +83,5 @@ I’m also developing my upcoming website project called **CRYPTO101**, focused 
 ---
 
 ## 📫 Contact
- **LINK TO PROJECT:** [https://mkarpovs.github.io/MarkussWeb]
+ **LINK TO PROJECT:** https://mk-btc0.github.io/MarkussWeb/
 - **GITHUB PROFILE:** [github.com/mkarpovs](https://github.com/mkarpovs)  
